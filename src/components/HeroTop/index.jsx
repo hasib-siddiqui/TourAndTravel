@@ -42,7 +42,6 @@ const Herotop = () => {
           </div>
         </div>
       </div>
-      {/* <p className="border-t-1 border-t-[#5a5a5a] p-4"></p> */}
     </>
   );
 };

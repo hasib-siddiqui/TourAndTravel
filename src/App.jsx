@@ -4,7 +4,9 @@ import Herotop from "./components/HeroTop/index.jsx";
 import Hero from "./components/Hero/index.jsx";
 import Categories from "./components/Categories/index.jsx";
 import Banner from "./components/Banner/index.jsx";
-import Recommend from "./components/Tets.jsx";
+import LandingPage from "./components/PlanTrip/index.jsx";
+import PopularDestinations from "./components/TopDestination";
+import RecentGallery from "./components/gallarey/index.jsx";
 
 const App = () => {
   return (
@@ -14,7 +16,9 @@ const App = () => {
       <Hero />
       <Categories />
       <Banner />
-      <Recomend />
+      <LandingPage />
+      <PopularDestinations />
+      <RecentGallery />
     </div>
   );
 };

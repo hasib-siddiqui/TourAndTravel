@@ -12,6 +12,7 @@
   "dependencies": {
     "@types/swiper": "^6.0.0",
     "gsap": "^3.12.7",
+    "lucide-react": "^0.477.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-slick": "^0.30.3",

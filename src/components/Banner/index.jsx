@@ -9,7 +9,6 @@ const Banner = () => {
     <div className="min-h-[550px] bg-gray-100 flex justify-center items-center backdrop-blur-xl py-12 sm:py-0">
       <div className="container">
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-10 items-center">
-          {/* Image Section */}
           <div data-aos="flip-up">
             <img
               src={TravelImg}
@@ -18,7 +17,6 @@ const Banner = () => {
             />
           </div>
 
-          {/* Text Content Section */}
           <div className="flex flex-col justify-center gap-6 sm:pt-0 lg:px-12">
             <h1
               data-aos="fade-up"
@@ -37,7 +35,6 @@ const Banner = () => {
               Ratione ex alias quis magni at optio.
             </p>
 
-            {/* Features Grid */}
             <div data-aos="zoom-in" className="grid grid-cols-2 gap-8">
               <div className="space-y-6">
                 <div className="flex items-center gap-4 text-xl font-semibold text-gray-800">
